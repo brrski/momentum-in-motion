@@ -1,0 +1,13 @@
+yfinance
+pandas
+numpy
+requests
+beautifulsoup4
+pandas-ta
+transformers
+PyQt6
+PyQt6-Charts
+torch
+mplfinance
+streamlit
+
