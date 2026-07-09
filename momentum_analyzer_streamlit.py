@@ -5,8 +5,8 @@ from momentum_analyzer import MomentumAnalyzer
 
 DEFAULT_TICKERS = [
     'META','GOOGL','MU', 'NVDA', 'MSFT', 'AAPL', 'AMD', 'AMZN', 'RXT', 'RBRK', 'NOK', 'PATH', 'CBRS', 'RKLB', 'SOFI','MRAM','GSIT',
-    'SNDK', 'CRWV', 'IREN', 'VNET', 'AMBA', 'FLEX', 'BEP', 'TSLA', 'ONDS', 'RKLB', 'NBIS', 'ARM', 'MRVL',
-    'SPY', 'QQQ', 'IWM', 'COHR', 'LITE', 'SNPS', 'CLS', 'ALAB', 'LUNR', 'CDNS', 'STX',
+    'SNDK', 'CRWV', 'IREN', 'VNET', 'AMBA', 'FLEX', 'BEP', 'TSLA', 'ONDS', 'SPCX', 'NBIS', 'ARM', 'MRVL',
+    'SPY', 'QQQ', 'IWM', 'COHR', 'LITE', 'SNPS', 'CLS', 'ALAB','UMAC', 'LUNR', 'CDNS', 'STX',
 ]
 
 
