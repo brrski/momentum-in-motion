@@ -700,11 +700,11 @@ def print_momentum_results(results):
 # ==========================================
 
 if __name__ == "__main__":
-    # Example ticker universe (mix of stocks with different momentum profiles)
+    # Eticker universe (mix of stocks with different momentum profiles)
     tickers = [
          'META','GOOG','MU', 'NVDA', 'NFLX', 'MSFT', 'AAPL', 'AMD', 'AMZN',
-        'SNDK', 'CRWV', 'BLSH', 'TSLA', 'ONDS', 'RKLB', 'NBIS', 'COIN', 'MRVL', 'META',
-        'SPY', 'QQQ', 'IWM', 'COHR', 'LITE', 'SNPS', 'CLS', 'ASTS', 'LUNR', 'CDNS', 'STX',
+        'SNDK', 'CRWV', 'BLSH', 'TSLA', 'ONDS', 'RKLB', 'NBIS', 'COIN', 'MRVL', 'AMBA', 'RBRK', 'SLS',
+        'SPY', 'QQQ', 'IWM', 'COHR', 'LITE', 'SNPS', 'CLS', 'ASTS', 'LUNR', 'CDNS', 'HOOD', 'STX',
     ]
     
     # Initialize analyzer with confidence threshold
